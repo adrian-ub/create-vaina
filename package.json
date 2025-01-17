@@ -44,6 +44,7 @@
   },
   "devDependencies": {
     "@adrianub/eslint-config": "^0.0.4",
+    "@antfu/ni": "^23.2.0",
     "@types/cross-spawn": "^6.0.6",
     "bumpp": "^9.10.1",
     "cross-spawn": "^7.0.6",
