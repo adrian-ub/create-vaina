@@ -1,7 +1,7 @@
 {
   "name": "create-vaina",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@9.13.0",
   "description": "Scaffolding Your First Project",
   "author": "Adrián UB",
